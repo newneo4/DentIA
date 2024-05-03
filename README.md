@@ -23,3 +23,8 @@ Y el dispositivo movil necesitara de la siguiente aplicacion.
 <ul>
 <li><a href = "https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=es&gl=US&pli=1" >Droid Cam</a></li>
 </ul>
+
+# IMAGENES DE LA APLICACION EN USO
+![image](https://github.com/newneo4/DentIA/assets/105571999/d6dfcf4e-f471-4ccb-acff-90590a306ec2)
+![image](https://github.com/newneo4/DentIA/assets/105571999/4dea65cd-36d5-4421-b8df-1fde9a2f4f76)
+
